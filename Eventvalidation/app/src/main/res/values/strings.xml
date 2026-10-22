@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Event-validation</string>
+
+    <string name="title_register">Đăng ký</string>
+    <string name="title_detail">Chi tiết</string>
+
+    <string name="hint_name">Họ và tên</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Số điện thoại</string>
+    <string name="hint_msv">Mã sinh viên</string>
+    <string name="hint_class">Lớp</string>
+
+    <string name="btn_register">Đăng ký</string>
+    <string name="btn_go_detail">Xem chi tiết</string>
+    <string name="btn_back">Quay lại Đăng ký</string>
+
+    <string name="err_name">Nhập họ tên đầy đủ (ít nhất 2 từ, chỉ gồm chữ)</string>
+    <string name="err_email">Email không hợp lệ</string>
+    <string name="err_phone">SĐT không hợp lệ (vd: 0901234567)</string>
+    <string name="err_msv">MSV gồm 6–13 chữ số</string>
+    <string name="err_class">Lớp 2–20 ký tự (chữ, số, _ - .)</string>
+    <string name="err_form">Vui lòng sửa các trường bị lỗi</string>
+
+    <string name="fmt_name">Họ tên: %1$s</string>
+    <string name="fmt_email">Email: %1$s</string>
+    <string name="fmt_phone">SĐT: %1$s</string>
+    <string name="fmt_msv">MSV: %1$s</string>
+    <string name="fmt_class">Lớp: %1$s</string>
+</resources>
